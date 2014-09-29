@@ -7,6 +7,7 @@ public class player {
 	private static String player1,player2;
 	
 	static void play1(){
+		System.out.println("Hi");
 		System.out.println(player1+" it is your turn.");
 		System.out.println("Here is what the board now looks like:");
 		System.out.println("   "+b1+"    |   "+b2+"   |   "+b3);
